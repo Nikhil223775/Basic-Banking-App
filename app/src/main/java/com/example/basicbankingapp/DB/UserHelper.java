@@ -47,14 +47,14 @@ public class UserHelper extends SQLiteOpenHelper {
         db.execSQL("insert into " + TABLE_NAME + " values(7410,'Shivani Chalotra', 'shivani@gmail.com','3669','9095648962', 3243.65)");
         db.execSQL("insert into " + TABLE_NAME + " values(8529,'Piyush Gupta', 'piyush@gmail.com','9985','8855640238', 87566.66)");
         db.execSQL("insert into " + TABLE_NAME + " values(3698,'Yash Jain', 'yash@gmail.com','1207','8895640215', 8755.64)");
-        db.execSQL("insert into " + TABLE_NAME + " values(7853,'Khushi', 'khushi@gmail.com','4522','9985021539', 746563)");
+        db.execSQL("insert into " + TABLE_NAME + " values(7853,'Khushi karma', 'khushi@gmail.com','4522','9985021539', 746563)");
         db.execSQL("insert into " + TABLE_NAME + " values(4562,'Ritik Pabri', 'ritik@gmail.com','6582','9309565238', 6563.54)");
         db.execSQL("insert into " + TABLE_NAME + " values(2365,'Rohit Patidar', 'rohit@gmail.com','5450','8292591201', 12334.43)");
         db.execSQL("insert into " + TABLE_NAME + " values(7854,'Anurag Sharma', 'anurag@gmail.com','2656','9015641200', 432423)");
         db.execSQL("insert into " + TABLE_NAME + " values(3621,'Hitish Kumar', 'hitish@gmail.com','1203','9995641999', 40304)");
         db.execSQL("insert into " + TABLE_NAME + " values(1122,'Naveen Chaturvedi', 'naveen@gmail.com','5566','9119541001', 7567)");
-        db.execSQL("insert into " + TABLE_NAME + " values(9512,'Gauri Parashar', 'gauri@gmail.com','2236','6254642205', 654645.55)");
-        db.execSQL("insert into " + TABLE_NAME + " values(7530,'Farhan Khan', 'farhan@gmail.com','6692','6893641266', 45442)");
+        db.execSQL("insert into " + TABLE_NAME + " values(9512,'Gauri Par', 'gauri@gmail.com','2236','6254642205', 654645.55)");
+        db.execSQL("insert into " + TABLE_NAME + " values(7530,'Farhan Akhtar', 'afarhan@gmail.com','6692','6893641266', 45442)");
     }
 
     @Override
